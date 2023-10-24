@@ -1,5 +1,5 @@
 # Panti
-Complete blog CMS, renders blog posts from beautiful markdown.
+Complete blog CMS, renders blog posts from markdown format to beautiful post pages.
 
 ### Features
 - Manage posts
