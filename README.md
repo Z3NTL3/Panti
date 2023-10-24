@@ -7,6 +7,9 @@ Complete blog CMS, renders blog posts from markdown format to beautiful post pag
 - See statistics about visitors 
 - Markdown view and post editor
 - Advanced control panel with enhanced security
+- Categories
+- Favorites
+- Like/Dislike posts
 
 # State
 **Currently under development.** 
