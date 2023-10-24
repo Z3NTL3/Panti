@@ -18,4 +18,4 @@ Complete blog CMS, renders blog posts from markdown format to beautiful post pag
 > When complete it should be released into this public github repository.
 
 # Technical 
-Backend will web-framework Gin. You should use technologies like Caddy/Nginx for scaling and other things.
+Backend will be in web-framework Gin. You should use technologies like Caddy/Nginx for scaling and other things.
