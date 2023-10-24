@@ -10,6 +10,7 @@ Complete blog CMS, renders blog posts from markdown format to beautiful post pag
 - Categories
 - Favorites
 - Like/Dislike posts
+- View counter
 
 # State
 **Currently under development.** 
